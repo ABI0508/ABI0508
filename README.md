@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 
-LinkedIn: Abinaya V 🌐
+LinkedIn: www.linkedin.com/in/abinaya-v-2a53172aa
 
 Email: 127177002@sastra.ac.in 📧
 
