@@ -1,5 +1,7 @@
 👋 Hi, I’m Abinaya V! 🌟
+
 👀 I’m interested in: Data Science 📊, Machine Learning 🤖, Deep Learning 🧠, and Computer Vision 🔍.
+
 🌱 I’m currently learning: Advanced machine learning techniques 🚀 and exploring new tools in data science 🛠️.
 💞️ I’m looking to collaborate on: Exciting data science projects 🤝, machine learning research 🔬, and innovative computer vision solutions 💡.
 📫 How to reach me:
